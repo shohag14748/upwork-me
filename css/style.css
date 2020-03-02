@@ -99,7 +99,9 @@ ion-icon {
     font-size: 17px
 }
 
-
+button:focus {
+    outline: 0 !important;
+}
 a {
     text-decoration: none;
 }
